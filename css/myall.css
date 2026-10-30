@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Yusei Magic", sans-serif;
+}
+
+:root {
+    --bg001: #0A0A0A;
+    --bg002: #151515;
+    --bg003: #f5fffa;
+
+    --text001: #F5F0E6;
+    --text002: #A89F8F;
+
+    --border001: #2A2722;
+    --border002: #6B5A32;
+    --border003: #2cbd58;
+    --border004: #275c37;
+
+    --btn001: #C9A227;
+    --btn002: #8F721C;
+
+    --btn001hover: #E0B93F;
+    --btn002hover: #B89428;
+}
+
+.fw-100 {
+    font-weight: 100;
+}
+
+.fw-200 {
+    font-weight: 200;
+}
+
+.fw-300 {
+    font-weight: 300;
+}
+
+.fw-400 {
+    font-weight: 400;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.fw-600 {
+    font-weight: 600;
+}
+
+.fw-700 {
+    font-weight: 700;
+}
+
+.fw-800 {
+    font-weight: 800;
+}
+
+.fw-900 {
+    font-weight: 900;
+}
